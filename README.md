@@ -125,5 +125,5 @@ this project seamlessly integrated MySQL data into the Hadoop ecosystem using Ap
 # Contacts
 For any questions or further information, feel free to contact me :)
 
-- **linkedin**: <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
-- **Email**: `aymanemaghouti@gmail.com`
+- **Linkedin**: <a href="https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/" target="_blank">Tejodhay Bonam</a><br>
+
